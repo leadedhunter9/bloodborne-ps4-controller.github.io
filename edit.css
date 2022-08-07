@@ -3,10 +3,6 @@
     background-image: url(https://leadedhunter9.github.io/bloodborne-ps4-controller.github.io/base.png);
 }
 
-.ds4.white.disconnected {
-    background: url(ps4-assets/disconnected.svg);
-}
-
 .ds4.white .trigger {
     background-image: url(https://leadedhunter9.github.io/bloodborne-ps4-controller.github.io/triggers.png);
 }
